@@ -75,8 +75,8 @@ export default function Dashboard() {
       <div className="flex h-screen bg-[#1992c2] justify-center items-center">
         <div className="text-center w-full max-w-md">
           <img
-            src="/path_to_your_logo.svg" // Ensure your logo is available here
-            alt="ONDU logo"
+            src="/ondulogo.png" // Ensure your logo is available here
+            alt="Report grafika"
             className="w-96 h-96 mb-6 mx-auto object-contain"
           />
           <h1 className="text-4xl font-bold text-white mb-2">RepApp</h1>
